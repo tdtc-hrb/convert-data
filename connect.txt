@@ -1,0 +1,1 @@
+Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\hailaer\db2.mdb;Persist Security Info=False
